@@ -1,0 +1,15 @@
+{
+  "user_name": "Hicaro",
+  "chat_language": "pt-br",
+  "doc_language": "Português",
+  "project": "Ponto",
+  "output_folder": "_reversa_sdd",
+  "newproject_progress": {
+    "mode": "expresso",
+    "stage": "ideator",
+    "started_at": "2026-11-15T16:20:00-03:00",
+    "last_checkpoint_at": "2026-11-15T16:20:00-03:00",
+    "completed_stages": [],
+    "brief": "Sistema de ponto eletrônico online pra substituir planilha de Excel. Precisa suportar home office, banco online (Supabase) + Vercel. Campos: entrada, saída almoço, volta almoço, saída final."
+  }
+}
